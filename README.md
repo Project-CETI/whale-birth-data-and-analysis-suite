@@ -6,8 +6,8 @@
 
 🏛️ **[Project CETI]([https://www.csail.mit.edu/](https://www.projectceti.org/))** 
 
-### Code for the ML pipeline 🐋
-This code is for tracking and aligning whales based on provided segmentation masks and computing features such as orientation, bounding boxes, and more 🌊.
+## Code for the ML pipeline 🐋
+The code in `track_whales_and_calc_features.py` is for tracking and aligning whales based on provided segmentation masks and computing features such as orientation, bounding boxes, and more 🌊.
 
 It was used to generate the data as part of the paper "Cooperation by non-kin during birth underpins sperm whale social complexity".
 
@@ -52,3 +52,7 @@ To download example segmentation masks and raw video for running the code, use t
 
 ### Note:
 In the paper, we ran this process interactively using the resume_from argument. This allowed us to iteratively refine the results, applying many manual corrections using our interactive tool—particularly in cases where whales went underwater or where segmentation was distorted.
+
+## Code for the network analysis
+
+Can be found under `network_analysis/`, divided into `scripts/` with helper functions, and `notebooks/` with the analyses used for the figures. 
