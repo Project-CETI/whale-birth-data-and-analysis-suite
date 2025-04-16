@@ -24,7 +24,7 @@ It was used to generate the data as part of the paper "Cooperation by non-kin du
 ![Orientation design](/pipeline_illustrations/Orientations.jpg?raw=true)
 
 ### Download
-First, you should download the following repository: https://github.com/z-x-yang/Segment-and-Track-Anything
+First, download and install the following repository: https://github.com/z-x-yang/Segment-and-Track-Anything
 
 ### Files
 Copy "track_whales_and_calc_features.py" and "Segmentations.py" to "Segment-and-Track-Anything" directory. 
@@ -33,7 +33,7 @@ Copy "track_whales_and_calc_features.py" and "Segmentations.py" to "Segment-and-
 Check that the file "model_args.py" points to the right paths.
 
 ### Data 
-Use your segmentation numpy file output of yolo and story them in the following format:
+Use your segmentation numpy file output of yolo and store them in the following format:
 
 <segmentation_data_dir>/masks_npy
 
