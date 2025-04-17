@@ -2,7 +2,7 @@
 
 **[📰 Paper](LinkTODO)** | **[📹 Explainer Video](LinkTODO)**
 
-✍️ [Alaa Maalouf](https://alaamaalouf.github.io/), [Joseph DelPreto](https://www.josephdelpreto.com/), [Maxime Lucas](https://maximelucas.github.io/), [Simone Poetto](https://scholar.google.com/citations?user=xF_yUXEAAAAJ&hl=en), [Jacob Andreas](https://www.mit.edu/~jda/), [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), [Giovanni Petri](https://www.networkscienceinstitute.org/people/giovanni-petri), [Shane Gero]( https://carleton.ca/biology/people/shane-gero/), [Daniela Rus](https://danielarus.csail.mit.edu/), and [David Gruber](https://www.davidgruber.com/) ✍️
+✍️ [Alaa Maalouf](https://alaamaalouf.github.io/), [Joseph DelPreto](https://www.josephdelpreto.com/), [Maxime Lucas](https://maximelucas.github.io/), [Simone Poetto](https://scholar.google.com/citations?user=xF_yUXEAAAAJ&hl=en), [Jacob Andreas](https://www.mit.edu/~jda/), [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), [Shane Gero]( https://carleton.ca/biology/people/shane-gero/), [Giovanni Petri](https://www.networkscienceinstitute.org/people/giovanni-petri),  [Daniela Rus](https://danielarus.csail.mit.edu/), and [David Gruber](https://www.davidgruber.com/) ✍️
 
 🏛️ **[Project CETI]([https://www.csail.mit.edu/](https://www.projectceti.org/))** 
 
