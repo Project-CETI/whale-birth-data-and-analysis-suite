@@ -14,25 +14,25 @@ It was used to generate the data as part of the paper "Cooperation by non-kin du
 
 
 
-### Challenges This Code Addresses
+#### Challenges This Code Addresses
 ![challenges](/pipeline_illustrations/Challenges.jpg?raw=true)
 
-### Pieline for Tracking and Alignment:
+#### Pieline for Tracking and Alignment:
 ![tracking design](/pipeline_illustrations/Track_align.jpg?raw=true)
 
-### Pipeline for Orientation Calculation
+#### Pipeline for Orientation Calculation
 ![Orientation design](/pipeline_illustrations/Orientations.jpg?raw=true)
 
-### Download
+#### Download
 First, download and install the following repository: https://github.com/z-x-yang/Segment-and-Track-Anything
 
-### Files
+#### Files
 Copy "track_whales_and_calc_features.py" and "Segmentations.py" to "Segment-and-Track-Anything" directory. 
 
-### Verify
+#### Verify
 Check that the file "model_args.py" points to the right paths.
 
-### Data 
+#### Data 
 Use your segmentation numpy file output of yolo and store them in the following format:
 
 <segmentation_data_dir>/masks_npy
@@ -43,14 +43,14 @@ The masks_npy folder should contain the raw segmentation outputs as NumPy arrays
 The masks folder should contain visualizations of these segmentations.
 These visualizations are used to manually inspect the segmentation results and remove bad frames before running the tracking and alignment code, helping to ensure that poor-quality segmentations are excluded from the pipeline.
 
-### Example command:
+#### Example command:
 
 python track_whales_and_calc_features.py --input_video_name 1688827660979 --input_video_path /home/data/1688827660979.mp4 --folder_to_store output_1688827660979 --seg_path /home/data/segs/1688827660979/  
 
-### Pre-generated Segmentation Data and Raw Videos
+#### Pre-generated Segmentation Data and Raw Videos
 To download example segmentation masks and raw video for running the code, use the following link: <insert link here>
 
-### Note:
+#### Note:
 In the paper, we ran this process interactively using the resume_from argument. This allowed us to iteratively refine the results, applying many manual corrections using our interactive tool—particularly in cases where whales went underwater or where segmentation was distorted.
 
 ## Code for the network analysis
