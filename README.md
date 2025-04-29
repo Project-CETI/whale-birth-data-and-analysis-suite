@@ -48,7 +48,7 @@ These visualizations are used to manually inspect the segmentation results and r
 python track_whales_and_calc_features.py --input_video_name 1688827660979 --input_video_path /home/data/1688827660979.mp4 --folder_to_store output_1688827660979 --seg_path /home/data/segs/1688827660979/  
 
 #### Pre-generated Segmentation Data and Raw Videos
-To download example segmentation masks and raw video for running the code, use the following link: <insert link here>
+To download example segmentation masks and raw video for running the code, use the following link: Link Will Be Provided Soon.
 
 #### Note:
 In the paper, we ran this process interactively using the resume_from argument. This allowed us to iteratively refine the results, applying many manual corrections using our interactive tool—particularly in cases where whales went underwater or where segmentation was distorted.
