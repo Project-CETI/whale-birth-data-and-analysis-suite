@@ -2,7 +2,14 @@
 
 **[📰 Paper](LinkTODO)** | **[📹 Explainer Video](LinkTODO)**
 
-✍️ [Alaa Maalouf](https://alaamaalouf.github.io/), [Joseph DelPreto](https://www.josephdelpreto.com/), [Maxime Lucas](https://maximelucas.github.io/), [Simone Poetto](https://scholar.google.com/citations?user=xF_yUXEAAAAJ&hl=en), [Jacob Andreas](https://www.mit.edu/~jda/), [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), [Shane Gero]( https://carleton.ca/biology/people/shane-gero/), [Giovanni Petri](https://www.networkscienceinstitute.org/people/giovanni-petri),  [Daniela Rus](https://danielarus.csail.mit.edu/), and [David Gruber](https://www.davidgruber.com/) ✍️
+✍️ [Alaa Maalouf *](https://alaamaalouf.github.io/), [Joseph DelPreto *](https://www.josephdelpreto.com/), [Maxime Lucas †](https://maximelucas.github.io/), [Simone Poetto †](https://scholar.google.com/citations?user=xF_yUXEAAAAJ&hl=en), [Jacob Andreas](https://www.mit.edu/~jda/), [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), [Shane Gero ‡]( https://carleton.ca/biology/people/shane-gero/), [Giovanni Petri ‡](https://www.networkscienceinstitute.org/people/giovanni-petri),  [Daniela Rus ‡](https://danielarus.csail.mit.edu/), and [David Gruber ‡](https://www.davidgruber.com/)
+
+∗ Core contributor; Machine learning and dataset curation lead, network analysis co-lead
+
+† Core contributor; Network analysis lead, data curation co-lead
+
+‡ Co-senior author
+✍️
 
 🏛️ **[Project CETI]([https://www.csail.mit.edu/](https://www.projectceti.org/))** 
 
@@ -52,6 +59,18 @@ To download example segmentation masks and raw video for running the code, use t
 
 #### Note:
 In the paper, we ran this process interactively using the resume_from argument. This allowed us to iteratively refine the results, applying many manual corrections using our interactive tool—particularly in cases where whales went underwater or where segmentation was distorted.
+
+## Code for parsing and visualizing the segmentations, and downloading the data used in the paper
+
+See the readme file in the `segmentations_infrastructure` submodule for information and instructions.
+
+You may need to run the following commands from the root folder of the current repository to clone this submodule:
+```
+git submodule init
+git submodule update
+```
+
+Alternatively, you can visit/clone the referenced repository directly at [https://github.com/Project-CETI/segmentations_infrastructure.git](https://github.com/Project-CETI/segmentations_infrastructure.git)
 
 ## Code for the network analysis
 

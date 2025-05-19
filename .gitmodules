@@ -1,0 +1,3 @@
+[submodule "segmentations_infrastructure"]
+	path = segmentations_infrastructure
+	url = https://github.com/Project-CETI/segmentations_infrastructure.git
