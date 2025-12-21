@@ -75,3 +75,7 @@ Alternatively, you can visit/clone the referenced repository directly at [https:
 ## Code for the network analysis
 
 Can be found under `network_analysis/`, divided into `scripts/` with helper functions, and `notebooks/` with the analyses used for the figures. 
+
+## Videos and segmentation data
+
+Videos and segmentation data can be found on Harvard Dataverse at [https://doi.org/10.7910/DVN/SWIHAN](https://doi.org/10.7910/DVN/SWIHAN).  They can also be explored at [https://www.projectceti.org/whalebirth/](https://www.projectceti.org/whalebirth/) or [https://ceti-birth.csail.mit.edu/](https://ceti-birth.csail.mit.edu/).
