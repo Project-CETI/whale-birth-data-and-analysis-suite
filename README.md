@@ -1,5 +1,7 @@
 # Cooperation by non-kin during birth underpins sperm whale social complexity  🐳
 
+[![DOI](https://zenodo.org/badge/967452947.svg)](https://doi.org/10.5281/zenodo.18016792)
+
 **[📰 Paper](LinkTODO)** | **[📹 Explainer Video](LinkTODO)**
 
 ✍️ [Alaa Maalouf *](https://alaamaalouf.github.io/), [Joseph DelPreto *](https://www.josephdelpreto.com/), [Maxime Lucas †](https://maximelucas.github.io/), [Simone Poetto †](https://scholar.google.com/citations?user=xF_yUXEAAAAJ&hl=en), [Jacob Andreas](https://www.mit.edu/~jda/), [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), [Shane Gero ‡]( https://carleton.ca/biology/people/shane-gero/), [Giovanni Petri ‡](https://www.networkscienceinstitute.org/people/giovanni-petri),  [Daniela Rus ‡](https://danielarus.csail.mit.edu/), and [David Gruber ‡](https://www.davidgruber.com/)
